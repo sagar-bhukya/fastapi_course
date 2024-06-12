@@ -1,4 +1,5 @@
 # fastapi_course : https://chatgpt.com/c/688e4081-0a9e-4a0e-854f-f680cac11534
+```
 AI prompts: https://chatgpt.com/g/g-Dye8on2Ub-ai-prompt-expert/c/307d91ed-5d77-49e0-be29-bde95a1fa363
 
 1.Introduction to FastAPI:->
@@ -27,4 +28,4 @@ Explain what FastAPI is and its key features. Provide a step-by-step guide on se
   Provide an overview of advanced FastAPI features. Include examples of setting up WebSocket connections, integrating GraphQL using Strawberry or Graphene, and using async/await for asynchronous programming.
 13.Deployment:->
 Describe the process of deploying a FastAPI application. Include instructions for deploying to popular platforms such as Heroku, AWS, and Docker. Explain best practices for configuration, scaling, and security.
-
+```
