@@ -1,4 +1,4 @@
-# fastapi_course
+# fastapi_course : https://chatgpt.com/c/688e4081-0a9e-4a0e-854f-f680cac11534
 AI prompts: https://chatgpt.com/g/g-Dye8on2Ub-ai-prompt-expert/c/307d91ed-5d77-49e0-be29-bde95a1fa363
 
 1.Introduction to FastAPI:->
